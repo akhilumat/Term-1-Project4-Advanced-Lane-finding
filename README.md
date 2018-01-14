@@ -21,15 +21,15 @@ The goals / steps of this project are the following:
 [//]: # (Image References)
 
 [image1]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture.JPG "Image with Lane lines detected"
-[image2]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture2.jpg "Histogram"
-[image3]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture3.jpg "Binary Warped Image"
-[image4]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture4.jpg "Warp Example"
-[image5]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture5.jpg "Lines drawn to get source points for warping"
-[image6]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture6.jpg "Binary output"
-[image7]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture7.jpg "Undistorted road Image"
-[image8]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture8.jpg "Distorted chessboard image"
-[image9]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture9.jpg "Undistorted chessboard image"
-[image10]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture10.jpg "Points drawn on chessboard"
+[image2]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture2.JPG "Histogram"
+[image3]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture3.JPG "Binary Warped Image"
+[image4]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture4.JPG "Warp Example"
+[image5]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture5.JPG "Lines drawn to get source points for warping"
+[image6]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture6.JPG "Binary output"
+[image7]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture7.JPG "Undistorted road Image"
+[image8]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture8.JPG "Distorted chessboard image"
+[image9]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture9.JPG "Undistorted chessboard image"
+[image10]: https://github.com/akhilumat/Self-Driving-Car-Term-1-Project4-Advanced-Lane-finding/blob/master/output_images/Capture10.JPG "Points drawn on chessboard"
 [video1]: ./project4_video.mp4 "Video"
 
 ## [Rubric](https://review.udacity.com/#!/rubrics/571/view) Points
